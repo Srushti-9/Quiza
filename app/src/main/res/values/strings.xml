@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiza</string>
+    <string name="question">Is there any question</string>
+    <string name="q1">Kernel is loaded in the main memory</string>
+    <string name="q2">Is selection sort the best algorithm?</string>
+    <string name="q3">Banglore is the IT capital of India</string>
+    <string name="q4">Padmavati movie has released</string>
+</resources>
